@@ -1,8 +1,8 @@
 /********************************************************
 
 IoTController V0.2
-Control a ESP8266 v01 from a website with PHP.
-Controle a ESP8266 v01 desde un sitio web con PHP.
+Control an ESP8266 v01 from a website with PHP.
+Controle un ESP8266 v01 desde un sitio web con PHP.
 https://github.com/hiteclab/IoTController
 
 *********************************************************
