@@ -78,10 +78,7 @@ void loop() {
     // wait for WiFi connection
     if((WiFiAccess.run() == WL_CONNECTED)) {
 
-        HTTPClient http;
-
-// Data for Pin GPIO0
-        
+        HTTPClient http;        
         http.begin("http://YourServerURL/valor.txt"); //CHANGE HERE!
 
         // start connection and send HTTP header
