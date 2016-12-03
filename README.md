@@ -8,7 +8,7 @@ University Los Libertadores
 Bogotá, Colombia, 2016.
 GPL license V3
 
-###ESPAÑOL
+###Español
 
 
 Software Libre para controlar el módulo ESP8266 usando el lenguaje de Arduino y un sitio web en PHP.
